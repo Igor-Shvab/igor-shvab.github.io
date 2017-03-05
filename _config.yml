@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Igor Shvab"
-  avatar           : "/assets/images/Igor_photo.jpg"
+  avatar           : "IShvab_photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            : "i.shvab@gmail.com"
