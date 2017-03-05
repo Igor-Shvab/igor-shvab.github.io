@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Igor Shvab"
-  avatar           : "/assets/images/IShvab_photo.jpg"
+  avatar           : "/assets/images/Igor_photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            : "i.shvab@gmail.com"
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Igor-Shvab"
+  github           : "Igor-Shvab"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/igor-shvab-6588865a/"
+  linkedin         : "in/igor-shvab-6588865a/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
