@@ -14,14 +14,14 @@ main:
 
 # Site navigation links
 
-#- title: About
- # url: /about/
+- title: About
+  url: /about/
 
-#- title: Blog
-#  url: /posts/
+- title: Blog
+  url: /posts/
 
-#- title: Code
-#  url: /code/
+- title: Code
+  url: /code/
 
-#- title: Publications
-#  url: /publications/
+- title: Publications
+  url: /publications/
