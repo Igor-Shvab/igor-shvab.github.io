@@ -10,3 +10,18 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Blog
+  url: /posts/
+
+- title: Code
+  url: /code/
+
+- title: Publications
+  url: /publications/
