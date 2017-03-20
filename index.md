@@ -10,9 +10,7 @@ image:
   creditlink: 
 ---
 
-I am physicist with  interested in data science and software development. I enjoy traveling, mountaineering, and a minimal website.
-
 ---
-// layout: home
-// author_profile: true
+layout: home
+author_profile: true
 ---
