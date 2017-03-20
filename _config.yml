@@ -81,7 +81,7 @@ author:
   avatar           : Igor_photo.jpg
   bio              : "Physicist and data scientist."
   location         : 
-  email            : i.shvab@gmail.com
+  email            : i.shvab@gmail.com {:height="36px" width="36px"}
   uri              :
   bitbucket        :
   codepen          :
