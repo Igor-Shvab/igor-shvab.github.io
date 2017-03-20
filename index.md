@@ -1,16 +1,4 @@
 ---
-layout: page
-excerpt: "Homepage of Igor Shvab"
-tags: 
-comments: false
-share: false
-image:
-  feature: 
-  credit: 
-  creditlink: 
----
-
----
 layout: home
 author_profile: true
 ---
