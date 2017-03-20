@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Igor Shvab"
-  avatar           : Igor_photo.jpg
+  avatar           : Igor_photo.jpg {:width="48px"}
   bio              : "Physicist and data scientist."
   location         : 
   email            : i.shvab@gmail.com
